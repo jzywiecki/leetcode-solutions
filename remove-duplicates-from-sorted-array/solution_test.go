@@ -13,4 +13,3 @@ func TestRemoveDuplicates(t *testing.T) {
 		t.Errorf("Expected %d but got %d", expected, actual)
 	}
 }
-
